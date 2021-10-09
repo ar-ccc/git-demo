@@ -1,12 +1,3 @@
 hello git222
 hello git333
 hello git444
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
